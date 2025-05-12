@@ -1,0 +1,5 @@
+examples/
+.lightning_studio/
+__pycache__/
+.vscode/
+.idea/
