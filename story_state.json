@@ -1,0 +1,163 @@
+{
+    "story_tree": {
+        "id": "5a0fa0ac-15e8-443c-bb71-4c7b104dce1d",
+        "text": "Captain Blackthorne stands on the shore of the forgotten island, his eyes scanning the dense jungle and mist-covered cliffs. He has heard tales of a hidden vault containing relics and a cursed artifact. As he steps into the jungle, he is joined by The Oracle of Tides, who speaks in riddles about the island's past and the guardian's curse.",
+        "child_choices": [
+            {
+                "id": "8c4f4f48-b861-4d9c-8114-af046e900a92",
+                "text": "Enter the jungle to find the hidden vault",
+                "child_scene": {
+                    "id": "da022423-7bc4-482b-9108-cf5b0d71b4d6",
+                    "text": "The jungle is thick with life, the air heavy with the scent of damp earth and ancient magic. Captain Blackthorne moves forward, his boots crunching on fallen leaves, while The Oracle of Tides walks beside him, her eyes glowing with ancient wisdom. They soon come across a series of ancient stone markers that seem to pulse with a faint, eerie light. The Oracle speaks in riddles, hinting at the path to the vault.",
+                    "child_choices": [
+                        {
+                            "id": "7f8c4eb7-0218-4837-ae86-1ab9215f97aa",
+                            "text": "Follow the ancient stone markers to the vault",
+                            "child_scene": {
+                                "id": "c37cbf13-93e0-41e1-8856-e157ca70dc79",
+                                "text": "As they follow the stone markers, the path leads them through a hidden ravine, where the jungle seems to close in around them. The air is thick with the scent of decay and ancient magic. Suddenly, a low growl echoes through the forest, and the ground trembles beneath their feet. The Oracle of Tides speaks in a voice that seems to echo from the very heart of the island, warning them of the guardian's presence.",
+                                "child_choices": [
+                                    {
+                                        "id": "e92ad5c6-544b-44e6-ae84-a6cd657b60ac",
+                                        "text": "Press forward into the ravine",
+                                        "child_scene": {
+                                            "id": "e88253b0-ff68-4578-8b45-3cd2156f117e",
+                                            "text": "The ravine opens into a vast underground chamber, its walls carved with intricate symbols and glowing with an otherworldly light. The air is cool and still, and the ground is smooth and cold. At the center of the chamber stands a massive stone altar, upon which rests a glowing orb that pulses with ancient energy. The Oracle of Tides steps forward, her expression solemn, and speaks in riddles about the island's curse and the guardian's soul bound to the artifact.",
+                                            "child_choices": [
+                                                {
+                                                    "id": "ea6d94fa-346d-4535-ad87-c2cf689297f6",
+                                                    "text": "Approach the glowing orb and investigate it",
+                                                    "child_scene": {
+                                                        "id": "ce2e3cbb-cd3c-4ae1-906d-aeec96f11310",
+                                                        "text": "The orb glows brighter as Captain Blackthorne approaches, its light casting shifting shadows across the chamber. The Oracle of Tides steps beside him, her gaze fixed on the orb. As he reaches out, a surge of energy blasts him back, and the orb shatters into a cascade of shimmering fragments. The ground quakes, and a low, resonant voice echoes through the chamber: 'You have awakened the curse.' The Guardian of the Island appears, its form a swirling mass of light and shadow, and demands that the intruders leave the island before it consumes them all.",
+                                                        "child_choices": [
+                                                            {
+                                                                "id": "1dfbdf67-6bd0-4907-bc43-300b9151d9bf",
+                                                                "text": "Run from the chamber and escape the island",
+                                                                "child_scene": {
+                                                                    "id": "505798b3-440e-4b71-bf5d-2795a07e387d",
+                                                                    "text": "The Guardian of the Island's presence is overwhelming, its form shifting and writhing as it encases the chamber in a thick, suffocating energy. Captain Blackthorne and Lira struggle to break free, but the Guardian's power is too strong. The Oracle of Tides, her voice trembling with ancient wisdom, speaks: 'The curse must be broken, or the island will be lost to darkness.' As the Guardian's final roar echoes through the chamber, the world around them fades, and the island is swallowed by eternal mist. The story ends with the last whisper of the Guardian's voice: 'The island is forgotten, and the curse is sealed.'",
+                                                                    "child_choices": [
+                                                                        {
+                                                                            "id": "3b62a6db-5335-4895-9aed-a3200eba8be0",
+                                                                            "text": "The story ends here, with the island lost to time and the curse sealed.",
+                                                                            "child_scene": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": "61bb8669-f32e-4053-9faa-f67e1bb5b79e",
+                                        "text": "Look for a way to escape the ravine",
+                                        "child_scene": {
+                                            "id": "8c3d3443-8f65-4783-8edd-0f7464b78434",
+                                            "text": "The ravine seems to stretch endlessly, with towering trees and a misty atmosphere that makes it feel like the island itself is breathing. The ground is uneven, and the air is heavy with an ancient energy that makes every step feel like a battle. The Oracle of Tides speaks again, her voice carrying the weight of the island's history, and warns that the guardian is watching, waiting for them to make a mistake.",
+                                            "child_choices": [
+                                                {
+                                                    "id": "95191e15-9e82-456f-b000-4c3a6848f82e",
+                                                    "text": "Try to climb the rocks to reach the surface",
+                                                    "child_scene": {
+                                                        "id": "57470b34-e2b4-4649-bb44-e264f402158e",
+                                                        "text": "The rocks are slick with moisture and covered in vines, making climbing a dangerous task. The Oracle of Tides steps forward, her gaze fixed on the horizon, and speaks in a voice that seems to resonate with the very earth. She reveals that the guardian is not just a force of nature but a living entity bound to the island, and only by facing it can they hope to escape its curse.",
+                                                        "child_choices": [
+                                                            {
+                                                                "id": "45aa4b74-642e-4b5b-b576-7d8c7e81e77c",
+                                                                "text": "Confront the Guardian of the Island directly",
+                                                                "child_scene": {
+                                                                    "id": "663731e7-56cf-4a55-ab85-94559de12f30",
+                                                                    "text": "The Guardian of the Island stands before them, its form shifting like mist and shadow. It is both ancient and alive, its presence radiating a power that could shatter the very fabric of the island. The Oracle of Tides speaks, her voice a whisper of the past, and the Captain Blackthorne feels the weight of centuries pressing upon him. The cursed artifact lies within the vault, but to free the island, they must face the guardian and break the cycle of curse and betrayal.",
+                                                                    "child_choices": [
+                                                                        {
+                                                                            "id": "4d6a91af-0bd4-4e4c-9913-b1d3d43e4c71",
+                                                                            "text": "Release the cursed artifact and confront the Guardian of the Island",
+                                                                            "child_scene": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "10e2d068-be15-428d-bd51-5414b4132b21",
+                                                    "text": "Follow the Oracle's guidance to find a hidden passage",
+                                                    "child_scene": {
+                                                        "id": "a086dcb5-7c37-4584-acf8-b6e39fc7f5b5",
+                                                        "text": "Following the Oracle's guidance, they stumble upon a narrow, hidden passage carved into the side of a massive stone wall. The passage is dimly lit by flickering torchlight and filled with the scent of ancient relics. As they step inside, a low hum of energy vibrates through the air, and the Oracle speaks in a voice that seems to resonate with the very essence of the island.",
+                                                        "child_choices": [
+                                                            {
+                                                                "id": "85d39bb7-7c01-498e-9753-9b26f7abf2d3",
+                                                                "text": "Explore the hidden passage to uncover the cursed artifact",
+                                                                "child_scene": {
+                                                                    "id": "ce6ce9b4-15bb-4c1a-87ed-3e3e5abc8f20",
+                                                                    "text": "As they step into the hidden passage, the air shifts, and a faint glow emanates from the walls. The cursed artifact lies at the center of the chamber, pulsating with ancient power. The Oracle of Tides reveals that the artifact binds the soul of the island's guardian, and to restore balance, they must confront the guardian's spirit. Captain Blackthorne, with his determined spirit and the Oracle's wisdom, faces the final challenge of the island's curse.",
+                                                                    "child_choices": [
+                                                                        {
+                                                                            "id": "65d75693-09e5-4f46-8641-06aec33f8f06",
+                                                                            "text": "Confront the guardian's spirit and restore balance to the island",
+                                                                            "child_scene": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "id": "011c3567-9451-4a4e-b4fc-5bcf095eaa5c",
+                                        "text": "Seek shelter in the nearby trees",
+                                        "child_scene": {
+                                            "id": "e331f6e7-5863-43f0-993c-f113aef971d7",
+                                            "text": "The trees close in around them, their branches forming a natural canopy that blocks the light and whispers of the island's ancient magic. The ground is soft and treacherous, and the air is thick with the scent of damp earth and forgotten time. As they huddle together, the Oracle of Tides speaks again, her voice a low murmur that seems to resonate in their bones. She reveals that the guardian is watching, and only by confronting it can they break the curse that binds the island.",
+                                            "child_choices": [
+                                                {
+                                                    "id": "17f9fe90-8888-4dfd-9e1d-1b1c88c6c740",
+                                                    "text": "Prepare for the confrontation with the guardian",
+                                                    "child_scene": {
+                                                        "id": "1fd6d457-955c-4f72-b4b6-1798484ab3b3",
+                                                        "text": "The air is heavy with tension as the group prepares for the confrontation. The Oracle of Tides whispers a final riddle, and the ground trembles as if the island itself is holding its breath. Captain Blackthorne takes a steadying breath, his heart pounding with the weight of the moment. The guardian's presence is palpable, a force of ancient magic that seems to pulse with the same energy that once shaped the island.",
+                                                        "child_choices": [
+                                                            {
+                                                                "id": "8e3db090-a13a-46f0-a705-90d11ef5db7c",
+                                                                "text": "Confront the guardian in the heart of the island",
+                                                                "child_scene": {
+                                                                    "id": "6eac0255-1945-4a81-80ac-87fdff06c0d6",
+                                                                    "text": "The group reaches the heart of the island, where the ancient vault stands in solemn silence. The guardian, a towering figure of stone and shadow, stands at the center, its eyes glowing with the same ancient light that once illuminated the island. The Oracle of Tides speaks, her voice a soft echo of the past. The curse is broken, but at a great cost. The island is changed, and the fate of the forgotten land rests in the hands of the pirate and his companions.",
+                                                                    "child_choices": [
+                                                                        {
+                                                                            "id": "17d5f523-7f0e-41ad-bc7d-7e76f4e4107b",
+                                                                            "text": "The story ends here, with the curse broken and the island transformed.",
+                                                                            "child_scene": null
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "current_id": null,
+        "last_added_id": null,
+        "timestamp": 1748123646.2513478
+    }
+}

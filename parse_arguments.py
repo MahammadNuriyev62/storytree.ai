@@ -14,6 +14,13 @@ def parse_args():
     )
 
     parser.add_argument(
+        "--n-scenes", "-n",
+        type=int,
+        help="Number of scenes to generate",
+        default=5,
+    )
+
+    parser.add_argument(
         "--leaf-probabilities", "-lp",
         nargs="+",
         help="list of leaf probabilities in the form of '2:0.2 3:0.3' (1:0.5 is inferred automatically by subtracting the sum of the others)",
